@@ -2,3 +2,4 @@ learn use git
 add new
 third add
 a
+Git tracks changes.
