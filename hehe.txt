@@ -3,3 +3,4 @@ add new
 third add
 a
 Git tracks changes.
+Git tracks changes 2.
